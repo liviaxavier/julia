@@ -1,0 +1,35 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,800,700,900);
+body{
+	font-family: Raleway,Arial,sans-serif; 
+}
+nav{
+	height: 60px;
+	background-color: #00bfff;
+}
+#logo-julia{	
+	height: 40px;
+}
+#imagem-header{
+	color:white;
+	font-size: 32px;
+	background-image: url('../images/pessoas-decidindo.jpg');
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+	box-shadow: inset 0px 0px 300px 200px rgba(0,153,204,0.7); 
+	height: 400px;
+	width: 100%;
+	background-size: cover;
+	vertical-align: middle;
+	align-items: center;
+	background-position: 0% 50%;
+}
+footer{
+	height: 60px;
+	background-color: #00bfff;
+	margin-top: 30px;
+	color: white;
+	text-align: center;
+}
+ .linhas-conteudo{
+ 	vertical-align: middle;
+ 	align-items: center;
+ }
