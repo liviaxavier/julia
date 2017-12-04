@@ -24,12 +24,7 @@
 				<div class="col-md-6">
 					<img class="img-fluid" src="images/tela-inicial-julia.png">
 				</div>
-				<div class="col-md-6">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-				consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-				cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-				proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+				<div class="col-md-6">Julia é um sistema de distribuição de recursos que se baseia em análise de dados para tomada de decisões. De forma organizada e com muito cuidado, Julia traz as melhores decisões para o gestor financeiro de sua empresa.
 				<br>
 				<br>
 				<a class=" smooth-scroll" href="#formulario"><button type="button" class="btn btn-primary">Quero saber como funciona</button></a>
@@ -40,12 +35,7 @@
 				<div class="col-md-6">
 					<img class="img-fluid" src="images/tela1-julia.png">
 				</div>
-				<div class="col-md-6">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-				consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-				cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+				<div class="col-md-6">As análises são feitas baseando-se nos dados da empresa captados sobre um determinado projeto, em determinado período de tempo. Assim, Julia gere dashboards interativas e simplificadas.
 				<br>
 				<br>
 				<a class=" smooth-scroll" href="#formulario"><button type="button" class="btn btn-primary">Quero saber como funciona</button></a>	
@@ -57,12 +47,7 @@
 				<div class="col-md-6">
 					<img class="img-fluid" src="images/tela-resposta-julia.png">
 				</div>
-				<div class="col-md-6">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-				consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-				cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+				<div class="col-md-6">O grande objetivo do sistema é auxiliar o gestor na tomada de decisão sobre distribuição de recursos dentro da empresa. Julia aprende por um tempo como são feitas as tomadas de decisão na área específica e logo está apta para propor as melhores soluções de distribuição de recursos. 
 				<br>
 				<br>
 				<a class=" smooth-scroll" href="#formulario"><button type="button" class="btn btn-primary">Quero saber como funciona</button></a>
@@ -70,14 +55,9 @@
 			</div>
 			<hr>
 			<div id="formulario" class="linhas-conteudo row">
-				<h1> Preencha e tals e pá e pans</h1>
+				<h1>Como tenho Julia na minha empresa?</h1>
 				<br>
-				<div class="col-md-8">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-				consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-				cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
+				<div class="col-md-8">Basta deixar seus dados e assim que Julia estiver disponível entramos em contato e damos acesso a um período de teste.s</div>
 				<form class="col-md-4">
 					<div class="form-group">
 						<label for="pwd">Nome:</label>
