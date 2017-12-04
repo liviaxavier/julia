@@ -35,7 +35,7 @@
 				<div class="col-md-6">
 					<img class="img-fluid" src="images/tela1-julia.png">
 				</div>
-				<div class="col-md-6">As análises são feitas baseando-se nos dados da empresa captados sobre um determinado projeto, em determinado período de tempo. Assim, Julia gere dashboards interativas e simplificadas.
+				<div class="col-md-6">As análises são feitas baseando-se nos dados da empresa captados sobre um determinado projeto, em determinado período de tempo. Assim, Julia gera dashboards interativas e simplificadas.
 				<br>
 				<br>
 				<a class=" smooth-scroll" href="#formulario"><button type="button" class="btn btn-primary">Quero saber como funciona</button></a>	
@@ -57,7 +57,7 @@
 			<div id="formulario" class="linhas-conteudo row">
 				<h1>Como tenho Julia na minha empresa?</h1>
 				<br>
-				<div class="col-md-8">Basta deixar seus dados e assim que Julia estiver disponível entramos em contato e damos acesso a um período de teste.s</div>
+				<div class="col-md-8">Basta deixar seus dados e assim que Julia estiver disponível entramos em contato e damos acesso a um período de testes.</div>
 				<form class="col-md-4">
 					<div class="form-group">
 						<label for="pwd">Nome:</label>
